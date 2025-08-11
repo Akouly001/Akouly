@@ -1,2 +1,2 @@
 # Akouly
-Dev low code
+Dev vibe coding
